@@ -1,5 +1,5 @@
 {
-    "name": "ExpresateWeb/yii2-adminlte3",
+    "name": "expresateweb/yii2-adminlte3",
     "description": "adminlte3 for yii2",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","adminlte"],
@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "php": ">=7.0",
+        "php": ">=7.4",
         "yiisoft/yii2": "~2.0.0",
         "yiisoft/yii2-bootstrap5": "*",
         "almasaeed2010/adminlte": "~3.2",
@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ExpresateWeb\\adminlte3\\": "src"
+            "expresateweb\\adminlte3\\": "src"
         }
     }
 }
