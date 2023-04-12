@@ -15,7 +15,7 @@
         "yiisoft/yii2": "~2.0.0",
         "yiisoft/yii2-bootstrap5": "*",
         "almasaeed2010/adminlte": "~3.2",
-        "expresateweb/yii2-adminlte-widgets": "dev-master"
+        "expresateweb/yii2-adminlte-widgets": "dev-main"
     },
 	"repositories": [
 		{
