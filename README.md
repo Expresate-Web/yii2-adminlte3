@@ -12,13 +12,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-composer require "hail812/yii2-adminlte3=~1.1"
+composer require "expresate/yii2-adminlte3=~1.1"
 ```
 
 or add
 
 ```
-"hail812/yii2-adminlte3": "~1.1"
+"expresate/yii2-adminlte3": "dev-master"
 ```
 
 to the require section of your `composer.json` file.
